@@ -1,10 +1,9 @@
 <h1 align="center">Leonardo 👨‍💻</h1>
-<h3 align="center">Software Developer in progress</h3>
+<h3 align="center">Software Developer in Progress</h3>
 
 ---
 
 ## 📊 Performance
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoaboud&theme=github_dark"/>
 </div>
@@ -12,23 +11,13 @@
 ---
 
 ## ⚙️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino" />
 </div>
 
 ---
 
-## 📚 Currently Expanding
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,r,go,mysql" />
-</div>
-
----
-
 ## 🌐 Professional Contact
-
 <div align="center">
   <a href="mailto:leoaboud99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -46,8 +35,9 @@
 
 ---
 
-## 💡 Profile
+## 💡 About Me
 
-- Focused on building scalable and efficient solutions  
-- Strong commitment to consistency and continuous improvement  
-- Driven by performance, discipline, and long-term growth  
+- Focused on building scalable and efficient systems  
+- Consistency and discipline over motivation  
+- Always learning and improving  
+- Goal: become a high-level developer and work with impactful technology  
