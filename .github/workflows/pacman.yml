@@ -2,24 +2,28 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # roda a cada 12h
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate Pacman Graph
+        uses: Platane/snk@v3
         with:
           github_user_name: leoaboud
           outputs: |
             dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to repository
+        uses: crazy-max/ghaction-github-pages@v3
+
+      #teste
         with:
           target_branch: output
           build_dir: dist
