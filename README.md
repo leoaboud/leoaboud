@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo 👨‍💻</h1>
-<h3 align="center">Software Developer in Progress</h3>
+<h3 align="center">Software Engineer in Progress</h3>
 
 ---
 
