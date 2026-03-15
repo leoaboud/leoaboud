@@ -17,6 +17,16 @@
 
 ---
 
+## 📚 Tech In Progress
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-239120?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-239120?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+---
+
 ## 🌐 Professional Contact
 <div align="center">
   <a href="mailto:leoaboud99@gmail.com">
@@ -36,8 +46,8 @@
 ---
 
 ## 💡 About Me
-
-- Focused on building scalable and efficient systems  
-- Consistency and discipline over motivation  
-- Always learning and improving  
-- Goal: become a high-level developer and work with impactful technology  
+- 🎓 Software Engineering student at UNICID — 1st semester (1/8)
+- Focused on building scalable and efficient systems
+- Consistency and discipline over motivation
+- Always learning and improving
+- Goal: become a high-level developer and work with impactful technology
