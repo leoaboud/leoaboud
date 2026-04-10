@@ -5,7 +5,8 @@
 
 ## 📊 Performance
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoaboud&theme=github_dark"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leoaboud&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoaboud&layout=compact&theme=midnight-purple" />
 </div>
 
 ---
@@ -19,10 +20,10 @@
 
 ## 📚 Tech In Progress
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-239120?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-239120?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-4c2889?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-4c2889?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-4c2889?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-4c2889?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div>
 
 ---
