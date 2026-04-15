@@ -13,7 +13,7 @@
 
 ## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,arduino" />
 </div>
 
 ---
@@ -22,7 +22,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-4c2889?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-4c2889?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-4c2889?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-4c2889?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div>
 
