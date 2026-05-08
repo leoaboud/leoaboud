@@ -21,8 +21,8 @@
 ## 📚 Tech In Progress
 <div align="center">
   <img src="https://img.shields.io/badge/Java-4c2889?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-4c2889?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-4c2889?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-4c2889?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-4c2889?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
 ---
@@ -46,7 +46,7 @@
 ---
 
 ## 💡 About Me
-- 🎓 Software Engineering student at UNICID — 1st semester (1/8)
+- Software Engineering student at UNICID — 1st semester
 - Focused on building scalable and efficient systems
 - Consistency and discipline over motivation
 - Always learning and improving
