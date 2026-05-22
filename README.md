@@ -6,7 +6,7 @@
 ## 📊 Performance
 <div align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leoaboud&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoaboud&layout=compact&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoaboud&layout=compact&theme=midnight-purple" />
 </div>
 
 ---
