@@ -1,19 +1,10 @@
 <h1 align="center">Leonardo 👨‍💻</h1>
 <h3 align="center">Software Engineer in Progress</h3>
 
----
-
-## 📊 Performance
-<div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leoaboud&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoaboud&layout=compact&theme=midnight-purple" />
-</div>
-
----
 
 ## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </div>
 
 ---
@@ -22,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-4c2889?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-4c2889?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-4c2889?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 ---
