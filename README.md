@@ -5,7 +5,7 @@
 
 ## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,git,powerautomate" />
 </div>
 
 ---
